@@ -1,5 +1,5 @@
 # Stock-Investment-Sell-Suggestion
-A python application suggest safe number quantity to sell for long term investment (Tested only in Indian Stock Market)
+A python application suggests safe number quantity to sell for long term investment (Tested only in Indian Stock Market)
 
 <b>How to Use</b>
 1. Input : Buying Quantity, Date, Price and Taxes(by default it takes Indian Stock exchange taxes)
