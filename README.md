@@ -1,5 +1,4 @@
 # Stock-Investment-Sell-Suggestion
-<b> About </b>
 A python application suggest safe number quantity to sell for long term investment (Tested only in Indian Stock Market)
 
 <b>How to Use</b>
